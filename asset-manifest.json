@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo_tailnode/static/css/main.b4923ca3.css",
+    "main.js": "/todo_tailnode/static/js/main.632a7503.js",
+    "index.html": "/todo_tailnode/index.html",
+    "main.b4923ca3.css.map": "/todo_tailnode/static/css/main.b4923ca3.css.map",
+    "main.632a7503.js.map": "/todo_tailnode/static/js/main.632a7503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4923ca3.css",
+    "static/js/main.632a7503.js"
+  ]
+}
